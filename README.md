@@ -6,18 +6,17 @@
 
 ## 👋 Sobre mim
 
-Sou **Analista de Dados** com experiência em *analytics*, automação de processos, modelagem estatística e *machine learning*. Tenho paixão por transformar dados em insights acionáveis, contribuindo para resultados estratégicos em diferentes áreas, especialmente **saúde, gestão de pessoas, educação** e **people analytics**.
+Sou **Analista de Dados** com 3 anos de experiência em projetos de BI e análise de dados. Adoro discutir processos e descobrir oportunidades e pontos de melhoria através dos dados, especialmente nas áreas da **saúde, da gestão de pessoas, e da educação**.
 
-- 🏆 +3 anos de experiência em análise e projetos de dados
-- 🔍 Foco em construção e monitoramento de KPIs estratégicos
-- 🚀 Especialista em automação de relatórios e dashboards (Power BI, Looker Studio)
-- 💡 Forte atuação em cultura data-driven, storytelling e decisão baseada em dados
+- 📊 Construção e monitoramento de KPIs estratégicos
+- 🗂️ Desenvolvimento de Data Warehouse, automação de relatórios, e dashboards
+- 💡 Cultura data-driven, storytelling e decisão baseada em dados
 
 ## 🛠️ Principais Habilidades
 
-- **Linguagens:** Python (pandas, matplotlib, numpy, scikit-learn), R (tidyverse), SQL
+- **Linguagens:** Python (pandas, matplotlib), R (tidyverse), SQL
 - **Ferramentas:** Power BI, Google Looker Studio, Qlik Sense, Pentaho Data Integration, Git
-- **Competências:** ETL, Data Warehousing, modelagem de dados, dashboards, análise estatística, machine learning
+- **Competências:** ETL, Data Warehousing, modelagem de dados, dashboards, análise estatística
 - **Soft Skills:** Trabalho em equipe, comunicação, feedback, metodologias ágeis, pensamento analítico
 
 ## 📚 Formação e Certificações
@@ -29,7 +28,7 @@ Sou **Analista de Dados** com experiência em *analytics*, automação de proces
 
 ## 🌱 Em busca de
 
-Oportunidades para atuar com análise de dados, desenvolvimento de soluções analíticas, automação de processos, e projetos de impacto em ambientes inovadores e colaborativos.
+Oportunidades para atuar como análise de dados, em especial no contexto de people analytics.
 
 ---
 
