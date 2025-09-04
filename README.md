@@ -15,7 +15,7 @@ Sou **Analista de Dados** com 3 anos de experiência em projetos de BI e anális
 ## 🛠️ Principais Habilidades
 
 - **Linguagens:** Python (pandas, matplotlib), R (tidyverse), SQL
-- **Ferramentas:** Power BI, Google Looker Studio, Qlik Sense, Pentaho Data Integration, Git
+- **Ferramentas:** Power BI, Google Looker Studio, Pentaho Data Integration, Git
 - **Competências:** ETL, Data Warehousing, modelagem de dados, dashboards, análise estatística
 - **Soft Skills:** Trabalho em equipe, comunicação, feedback, metodologias ágeis, pensamento analítico
 
